@@ -1,0 +1,4 @@
+Prihodek v višini 2.0 €, opomba: Za kavo
+Strošek v višini 1.0 €, opomba: za malo malico
+Prihodek v višini 200.0 €, opomba: za kosilo
+Strošek v višini 20.0 €, opomba: za malo kosilo

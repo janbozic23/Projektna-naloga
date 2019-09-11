@@ -8,9 +8,9 @@
 
 <div align="center">
 <form action='/preveri_nak/' method='post'>
-    Vnesite znesek, ki ga želite nakazati: </h2>
+    Vnesite znesek, ki ga želite dvigniti: </h2>
     <input class="input" type="text" name='nakazilo' placeholder="Znesek"> <br>
-    Vnesite številko računa, na katerega želite denar nakazati:
+    Vnesite številko računa iz katerega želite denar nakazati:
     <input class="input" type="text" name='neki' placeholder="Račun"> <br>
     Opomba:
     <input class="input" type="text" name='opomba' placeholder="Opomba"> <br>
